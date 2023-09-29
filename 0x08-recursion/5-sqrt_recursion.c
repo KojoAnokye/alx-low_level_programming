@@ -2,8 +2,8 @@
 
 /**
  * sqrt_a - return the nutural square root of a number
- * @n: input number
- * @c: iterator
+ * @a: parameter
+ * @b: parameter
  * Return: square root or -1
  */
 int sqrt_a(int a, int b)
